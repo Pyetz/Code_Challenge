@@ -1,0 +1,39 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-04-12T04:24:27.290732",
+    "startedAt": "2024-04-12T04:24:19.913857",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/nam-hoang-le/40-Days-Basic-Python.git",
+        "commit": "9e1b6175e896adb902110b03586a110f4007aa02"
+    },
+    "email": "==",
+    "root": "D:/2024/AIO/Outside-Content/40-Days-Code/40-Days-Basic-Python",
+    "host": "HoangNam",
+    "username": "Nam",
+    "executable": "c:\\Users\\Nam\\anaconda3\\envs\\Nam\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {},
+    "memory": {
+        "total": 31.692092895507812
+    }
+}
